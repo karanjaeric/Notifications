@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "837970881934",
+    "firebase_url": "https://test-c9240.firebaseio.com",
+    "project_id": "test-c9240",
+    "storage_bucket": "test-c9240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837970881934:android:31aceaa8595fe4c1",
+        "android_client_info": {
+          "package_name": "com.thepensionapp.testnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837970881934-qpokv06djv6ob8ovg8mhvtlkj07hpave.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "837970881934-qpokv06djv6ob8ovg8mhvtlkj07hpave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0j9cCuhb24XiZVeevrMmFi29OPOYmwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
